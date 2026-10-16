@@ -16,6 +16,8 @@ Building reliable, user-focused software with modern web, mobile, and backend te
 [![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)](https://reactnative.dev/)
 [![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=nodedotjs\&logoColor=white)](https://nodejs.org/)
 [![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge\&logo=nestjs\&logoColor=white)](https://nestjs.com/)
+[![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)](https://dotnet.microsoft.com/)
+[![C%23](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)](https://learn.microsoft.com/en-us/dotnet/csharp/)
 
 </div>
 
@@ -40,6 +42,14 @@ My work includes frontend development, API integration, mobile application engin
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square\&logo=postgresql\&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square\&logo=mongodb\&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square\&logo=prisma\&logoColor=white)
+
+**Backend & Microservices**  
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
+![REST APIs](https://img.shields.io/badge/REST_APIs-005571?style=flat-square)
+![Microservices](https://img.shields.io/badge/Microservices-Architecture-526E8D?style=flat-square)
 
 **Tools & Infrastructure**
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square\&logo=git\&logoColor=white)
@@ -72,6 +82,14 @@ Mobile workflows for local data capture, queued uploads, retry handling, and syn
 Web applications integrating modern frontend frameworks with backend APIs, authentication, and data persistence.
 
 `React` `Angular` `TypeScript` `Node.js` `NestJS` `REST APIs`
+
+### ⚙️ .NET Microservices & Distributed Systems
+
+Exploring service-based backend architecture with C#, .NET, and SQL Server—focusing on service boundaries, API communication, data persistence, and maintainable system design.
+
+`C#` `.NET` `ASP.NET Core` `SQL Server` `Microservices` `System Design`
+
+**Repository / Demo:** [Add your .NET microservices project link](https://github.com/shaeel45)
 
 **Repository:** [Add project link](https://github.com/shaeel45)
 
