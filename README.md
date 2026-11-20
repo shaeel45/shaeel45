@@ -6,7 +6,7 @@
 
 Building reliable, user-focused software with modern web, mobile, and backend technologies.
 
-[Portfolio](https://shaeelkhan.info/) · [LinkedIn](https://www.linkedin.com/in/muhammad-shaeel-khan/) · [GitHub](https://github.com/shaeel45)
+[Portfolio](https://shaeelsoftwareengineer.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/muhammad-shaeel-khan/) · [GitHub](https://github.com/shaeel45)
 
 <br/>
 
@@ -125,7 +125,7 @@ Exploring AI integrations that support useful workflows and solve concrete produ
 Interested in meaningful software products, engineering challenges, and open-source collaboration.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/muhammad-shaeel-khan/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-111111?style=for-the-badge\&logo=vercel\&logoColor=white)](https://shaeelkhan.info/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-111111?style=for-the-badge\&logo=vercel\&logoColor=white)](https://shaeelsoftwareengineer.vercel.app/)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/shaeel45)
 
 </div>
